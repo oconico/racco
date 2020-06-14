@@ -1,0 +1,42 @@
+.container {
+  /* background-color:lightgreen; */
+}
+
+.container img {
+  width: 1000px;
+  height: 150px;
+  padding: 20px;
+  margin: 20px auto;
+  display: block;
+}
+
+.top-wrapper {
+  /* background-color: lightgreen; */
+}
+
+.top-wrapper img {
+  margin: 0 auto;
+  display: block;
+  width: 1000px;
+  height: 80px;
+  padding: 0;
+} 
+
+.item {
+  width: 500px;
+  height: 100px;
+  margin: 30px 120px;
+  padding: 30px;
+}
+
+.foot-wrapper img {
+  margin: 0 auto;
+  display: block;
+  width: 1000px;
+  height: 80px;
+}
+footer p {
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+}
